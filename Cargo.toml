@@ -1,0 +1,11 @@
+[package]
+name = "rust_dns-server"
+version = "0.1.0"
+edition = "2024"
+authors = ["Lokai Kuroi <contact@lokai-kuroi.de>"]
+license = "3-Clause BSD"
+description = "Runs a DNS server with various configurations and customizations."
+homepage = "https://docs.rs/rust_dns-server/latest/rust_dns-server/"
+repository = "https://github.com/lokai-kuroi/rust-dns-server"
+
+[dependencies]
